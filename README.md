@@ -30,3 +30,8 @@ Upload the whole folder to any PHP-capable shared hosting (`public_html`, `www`,
 - `script.js` — mobile navigation + certificate lightbox
 - `assets/images/` — profile image
 - `assets/certificates/` — deduplicated public certificate images
+
+
+## September 2026 certificate update
+
+The portfolio credential gallery now includes the latest uploaded DEPI, ITI, cybersecurity, Hajj Hackathon, Guinness World Records, Ministry of Interior, National Defense, leadership, and recognition certificates. Duplicate credential subjects use the latest uploaded scan where appropriate.
